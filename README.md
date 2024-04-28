@@ -22,7 +22,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a>  
 </div>
 
-## 📈 Github Stats  
+## 📈 GitHub Stats  
 
 ![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasRiveraS&show_icons=true&theme=tokyonight)
 
