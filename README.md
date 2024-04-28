@@ -42,8 +42,14 @@
 <img src=https://img.shields.io/badge/Discord-%2324292e.svg?style=for-the-badge&logo=discord&logoColor=b68ae8 alt=instagram style="margin-bottom: 0px;" />
 </a>  
 
+<br />
 
---- 
+
 <br />
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=NicolasRiveraS&&style=flat-square&color=b68ae8) 
+<br />
+<br />
+
+
+### ⬇️ Remember to checkout my repositories down below ⬇️
