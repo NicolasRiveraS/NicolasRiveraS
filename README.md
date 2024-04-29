@@ -52,4 +52,4 @@
 <br />
 
 
-### ⬇️ Remember to checkout my repositories down below ⬇️
+### ⬇️ Remember to check out my repositories down below ⬇️
