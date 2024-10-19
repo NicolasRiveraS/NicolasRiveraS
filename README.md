@@ -24,21 +24,21 @@
 
 ## 📈 GitHub Stats  
 
-![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasRiveraS&show_icons=true&theme=tokyonight)
+![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasRiveraS&show_icons=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRiveraS&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRiveraS&layout=compact&theme=gotham&langs_count=10)
 
 
 ## 📲 Connect with me  
 
 <a href="https://github.com/NicolasRiveraS" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=b68ae8 alt=github style="margin-bottom: 0px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=2AA889 alt=github style="margin-bottom: 0px;" />
 </a>
 <a href="https://instagram.com/palliser_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=b68ae8 alt=instagram style="margin-bottom: 0px;" />
+<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=2AA889 alt=instagram style="margin-bottom: 0px;" />
 </a>  
 <a href="https://discord.com/users/marshmallow_0306" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%2324292e.svg?style=for-the-badge&logo=discord&logoColor=b68ae8 alt=instagram style="margin-bottom: 0px;" />
+<img src=https://img.shields.io/badge/Discord-%2324292e.svg?style=for-the-badge&logo=discord&logoColor=2AA889 alt=instagram style="margin-bottom: 0px;" />
 </a>  
 
 <br />
@@ -47,7 +47,7 @@
 
 <br />
 
-![Profile views counter](https://komarev.com/ghpvc/?username=NicolasRiveraS&&style=flat-square&color=b68ae8) 
+![Profile views counter](https://komarev.com/ghpvc/?username=NicolasRiveraS&&style=flat-square&color=2AA889) 
 <br />
 <br />
 
