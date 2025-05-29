@@ -25,7 +25,7 @@
 <a href="" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS3" height="70" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JS" height="70" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="70" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://pngimg.com/d/php_PNG7.png" alt="PHP" height="70" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://pngimg.com/d/php_PNG18.png" alt="PHP" height="70" /></a>
 </div>
 
 ### 💽 Databases
